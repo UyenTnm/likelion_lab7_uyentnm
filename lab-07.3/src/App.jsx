@@ -12,7 +12,6 @@ function App() {
   return (
     <>
       <p>What time is it ? </p>
-      {/* <Displayclock /> */}
       <Showclock />
     </>
   );
